@@ -1,0 +1,49 @@
+COMPARISION --
+____________________
+laptops --        Asus                                                  lenevo                                                      dell
+
+screen            15.60-inch                                            14.00-inch                                                  14.00-inch
+                  2560x1440 pixels                                      1366x768 pixels
+				 
+proccessor        AMD Ryzen 9th Gen Ryzen 9 6900HX                      Intel Core i5 8350U                                         intel core i7
+
+memory            16GB/1TB                                                  8GB/1TB                                                    8BG/1TB
+
+camera             yes                                                   yes                                                         yes
+
+speaker            2                                                           1                                                        1  
+
+
+All you need is a laptop or a PC and an Internet connection and you can pretty much do almost anything and create almost any type of company. , Mark Cuban
+____________________
+
+tablets --         samsung                                               apple      
+
+Dimensions:        165.8 x 254.3 x 5.9mm                                 178.5 x 247.6 x 6.1mm
+
+Display:           11-inch Dynamic AMOLED 2X                             10.9-inch Liquid Retina LED
+
+CPU:               Snapdragon 8 Gen 2 for Galaxy                         M1 chip with 8 core CPU
+
+memory             8BG,16GB/64GB,256GB                                   8BG,16GB/64GB,256GB
+
+battery            8,400mAh                                              7,606mAh
+
+
+The reason we wouldn't make a seven-inch tablet isn't because we don't want to hit a price point, it's because we don't think you can make a great tablet with a seven-inch screen . , Steve Jobs
+____________________
+
+smathphones --        samsung                                             iphone                                                        oneplus
+
+Display              6.6 inches (16.76 cm)                                6.7 inches (17.01 cm)                                         6.7 inches (17.02 cm)
+
+canmera               50 MP + 12 MP + 10 MP                               12 MP + 12 MP + 12 MP                                         50 MP + 48 MP + 32 MP
+
+Performance          Qualcomm Snapdragon 8 Gen 2                          Apple A15 Bionic (3 nm)                                       Qualcomm Snapdragon 8 Gen 2
+
+memory               8GB/256GB                                            8GB/256GB                                                     16GB/256GB
+
+battery              4700mAh                                              3687 mAh                                                      5000mAh
+____________________
+
+The human race is already social, and the smartphone has everything needed to enable them to act on their social needs. , keith Teare
